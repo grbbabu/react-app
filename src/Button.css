@@ -1,0 +1,8 @@
+Button-container {
+    width: 100px;
+    height: auto;
+}
+Button {
+    background-color: blue;
+    float: left;
+}
